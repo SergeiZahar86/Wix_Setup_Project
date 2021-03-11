@@ -11,9 +11,11 @@ Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Debug|ia64 = Debug|ia64
+		Debug|x64 = Debug|x64
 		Debug|x86 = Debug|x86
 		Release|Any CPU = Release|Any CPU
 		Release|ia64 = Release|ia64
+		Release|x64 = Release|x64
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
@@ -21,21 +23,29 @@ Global
 		{366A0938-2A6F-491B-90EE-9776C51ABFB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{366A0938-2A6F-491B-90EE-9776C51ABFB0}.Debug|ia64.ActiveCfg = Debug|Any CPU
 		{366A0938-2A6F-491B-90EE-9776C51ABFB0}.Debug|ia64.Build.0 = Debug|Any CPU
+		{366A0938-2A6F-491B-90EE-9776C51ABFB0}.Debug|x64.ActiveCfg = Debug|x64
+		{366A0938-2A6F-491B-90EE-9776C51ABFB0}.Debug|x64.Build.0 = Debug|x64
 		{366A0938-2A6F-491B-90EE-9776C51ABFB0}.Debug|x86.ActiveCfg = Debug|Any CPU
 		{366A0938-2A6F-491B-90EE-9776C51ABFB0}.Debug|x86.Build.0 = Debug|Any CPU
 		{366A0938-2A6F-491B-90EE-9776C51ABFB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{366A0938-2A6F-491B-90EE-9776C51ABFB0}.Release|Any CPU.Build.0 = Release|Any CPU
 		{366A0938-2A6F-491B-90EE-9776C51ABFB0}.Release|ia64.ActiveCfg = Release|Any CPU
 		{366A0938-2A6F-491B-90EE-9776C51ABFB0}.Release|ia64.Build.0 = Release|Any CPU
+		{366A0938-2A6F-491B-90EE-9776C51ABFB0}.Release|x64.ActiveCfg = Release|x64
+		{366A0938-2A6F-491B-90EE-9776C51ABFB0}.Release|x64.Build.0 = Release|x64
 		{366A0938-2A6F-491B-90EE-9776C51ABFB0}.Release|x86.ActiveCfg = Release|Any CPU
 		{366A0938-2A6F-491B-90EE-9776C51ABFB0}.Release|x86.Build.0 = Release|Any CPU
 		{5EFB44CF-A82C-4EC7-8CC3-C9E69E45C042}.Debug|Any CPU.ActiveCfg = Debug|x86
 		{5EFB44CF-A82C-4EC7-8CC3-C9E69E45C042}.Debug|Any CPU.Build.0 = Debug|x86
 		{5EFB44CF-A82C-4EC7-8CC3-C9E69E45C042}.Debug|ia64.ActiveCfg = Debug|x86
+		{5EFB44CF-A82C-4EC7-8CC3-C9E69E45C042}.Debug|x64.ActiveCfg = Debug|x64
+		{5EFB44CF-A82C-4EC7-8CC3-C9E69E45C042}.Debug|x64.Build.0 = Debug|x64
 		{5EFB44CF-A82C-4EC7-8CC3-C9E69E45C042}.Debug|x86.ActiveCfg = Debug|x86
 		{5EFB44CF-A82C-4EC7-8CC3-C9E69E45C042}.Debug|x86.Build.0 = Debug|x86
 		{5EFB44CF-A82C-4EC7-8CC3-C9E69E45C042}.Release|Any CPU.ActiveCfg = Release|x86
 		{5EFB44CF-A82C-4EC7-8CC3-C9E69E45C042}.Release|ia64.ActiveCfg = Release|x86
+		{5EFB44CF-A82C-4EC7-8CC3-C9E69E45C042}.Release|x64.ActiveCfg = Release|x64
+		{5EFB44CF-A82C-4EC7-8CC3-C9E69E45C042}.Release|x64.Build.0 = Release|x64
 		{5EFB44CF-A82C-4EC7-8CC3-C9E69E45C042}.Release|x86.ActiveCfg = Release|x86
 		{5EFB44CF-A82C-4EC7-8CC3-C9E69E45C042}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
